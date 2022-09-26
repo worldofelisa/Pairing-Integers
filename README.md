@@ -15,8 +15,12 @@ This should output with 6 tests passing, with a few outputs into the console of 
 I have created a module with an algorithm to find all pairs of integers within an array that sum to a specified value. My points for success were:
 
 -The input includes the array of integers and the specified value
+
 -The output includes all pairs of integers that sum to that specified value
+
 -Errors are handled
+
 -Unit tests are used to ensure code functionality
+
 
 This was written in TypeScript to show off some of my knowledge of that language. 
